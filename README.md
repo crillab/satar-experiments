@@ -1,5 +1,5 @@
-# SATAR: a tool for enumerating (minimal non-redundant) Association Rules
-This repository has code for replicating the experiments in [*Declarative Decomposition Approach for Discovering Association Rules*](https://yizza.gitlab.io/files/ijcai20.pdf) - IJCAI20
+# SATAR: SAT-based (minimal non-redundant) Association Rules mining 
+This repository has code and datasets for replicating the experiments in [*Declarative Decomposition Approach for Discovering Association Rules*](https://yizza.gitlab.io/files/ijcai20.pdf) - IJCAI20
 
 ## Run (under Linux OS): 
 
